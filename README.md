@@ -1,10 +1,10 @@
-# Modern UI Pack
-Minimalist UI elements for Unity engine. 
+# Ultimate HUD Skins
+Stylish HUD designs for Unity engine.
 
-Latest version: [v1.2 - Click for changes & showcase](https://youtu.be/D7ziPl0lAlA)
+Latest version: [v1.0 - Click for changes & showcase](https://youtu.be/D7ziPl0lAlA)
 
 # Download
-You can download MUIP from [releases page](https://github.com/Michsky/muip/releases) or [Asset Store](assetstore.unity.com/packages/tools/gui/modern-ui-pack-114792).
+You can download UHS from [releases page](https://github.com/Michsky/ultimatehudskins/releases).
 
 # Contact
 [Contact me via e-mail](mailto:isa.steam@outlook.com)
