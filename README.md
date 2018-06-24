@@ -1,7 +1,7 @@
 # Ultimate HUD Skins
 Stylish HUD designs for Unity engine.
 
-Latest version: [v1.0 - Click for changes & showcase](https://youtu.be/D7ziPl0lAlA)
+Latest version: [v1.0 - Click for changes & showcase](https://www.youtube.com/watch?v=uzCWiTtknqs)
 
 # Download
 You can download UHS from [releases page](https://github.com/Michsky/ultimatehudskins/releases).
